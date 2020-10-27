@@ -1,0 +1,46 @@
+html{
+    background-image: url(background.jpg);
+    overflow-y: scroll;
+    height: 200%;
+}
+
+footer{
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+#containerPortfolio{   
+    position: relative;
+    margin-top: 10vh;
+    margin-left: 5vh;
+    background-color: white;
+    float: left;
+    width: 60%;
+    max-height: auto; 
+    text-size-adjust: 2vh;
+}
+
+#LinkedIn{
+    max-width: 50%;
+    max-height: 50%;
+}
+#GitHub{
+    max-width: 50%;
+    max-height: 50%;
+}
+#SeniorTravel{
+    max-width: 50%;
+    max-height: 50%; 
+}
+#RepoSeniorTravel{
+    max-width: 50%;
+    max-height: 50%; 
+}
+#DynamicPlanner{
+    max-width: 50%;
+    max-height: 50%;
+}

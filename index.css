@@ -1,0 +1,32 @@
+html{
+    background-image: url(background.jpg);
+    overflow-y: scroll;
+    height: 130%;
+}
+#navbar{
+    text-emphasis-style: bold;
+}
+footer{
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+#containerIndex{
+    position: relative;
+    margin-top: 10vh;
+    margin-left: 5vh;
+    background-color: white;
+    float: left;
+    width: 40%;
+    max-height: auto; 
+    text-size-adjust: 2vh;
+    
+}
+
+#JoeImage{
+    max-width: 50%;
+    max-height: 50%;
+}
