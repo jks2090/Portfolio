@@ -1,7 +1,8 @@
 html{
     background-image: url(background.jpg);
     overflow-y: scroll;
-    height: 130%;
+    
+
 }
 #navbar{
     text-emphasis-style: bold;
@@ -13,6 +14,7 @@ footer{
     text-align: center;
     background-color: grey;
     color: white;
+    
 }
 #containerIndex{
     position: relative;
@@ -23,6 +25,7 @@ footer{
     width: 40%;
     max-height: auto; 
     text-size-adjust: 2vh;
+    padding-bottom: 100px;
     
 }
 

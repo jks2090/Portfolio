@@ -1,7 +1,7 @@
 html{
     background-image: url(background.jpg);
     overflow-y: scroll;
-    height: 200%;
+    overflow: auto;
 }
 
 footer{
@@ -22,6 +22,7 @@ footer{
     width: 60%;
     max-height: auto; 
     text-size-adjust: 2vh;
+    padding-bottom: 100px;
 }
 
 #LinkedIn{
@@ -41,6 +42,10 @@ footer{
     max-height: 50%; 
 }
 #DynamicPlanner{
+    max-width: 50%;
+    max-height: 50%;
+}
+#HollyJolly{
     max-width: 50%;
     max-height: 50%;
 }
